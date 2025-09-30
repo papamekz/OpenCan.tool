@@ -54,4 +54,3 @@ Waste codes and flows differ locally. Always follow your municipality's guidance
 
 This work is released under CC0 1.0 Universal (Public Domain Dedication). You can copy, modify, distribute and use the work, even for commercial purposes, all without asking permission.
 
-See [LICENSE](LICENSE) for full details.
