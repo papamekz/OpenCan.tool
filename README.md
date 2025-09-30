@@ -22,6 +22,8 @@ Spray cans already carry recycling symbols - the disposal costs have been paid a
 ## Files
 
 - `OpenCan.tool.dxf` – laser/water-jet profile
+- `OpenCan.tool - Papamek.jpg` – photo of the finished tool
+- `Gefahrzeichen.OpenCan.info.png` – hazard symbols reference
 
 ## Build
 
