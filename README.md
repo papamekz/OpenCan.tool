@@ -8,7 +8,7 @@ Public reports and some waste operators often label dumped cans as "hazardous." 
 
 > **Key point:** Empty cans ≠ hazardous waste. Classification: EWC 15 01 04 (metal packaging). Local municipal rules may vary.
 
-Media and waste management companies often classify illegally disposed spray cans in public spaces as hazardous waste - even though they are predominantly empty. Risk assessments follow worst-case scenarios, leading to the demonization of illegal waste and Graffiticulture, often hindering the installation of free creative spaces.
+Media and waste management companies often classify illegally disposed spray cans in public spaces as hazardous waste - even though they are predominantly empty. Risk assessments follow worst-case scenarios, leading to the demonization of illegal waste and UrbanArt culture, often hindering the installation of free creative spaces.
 
 Spray cans already carry recycling symbols - the disposal costs have been paid at the time of purchase and are covered by these recycling systems (EU). Municipal companies may set different rules and usually own the few existing hazardous waste processing facilities for spray cans you have to pay extra for.
 
