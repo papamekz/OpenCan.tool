@@ -27,7 +27,7 @@ Spray cans already carry recycling symbols - the disposal costs have been paid a
 
 ## Build
 
-- **Material:** 2–3 mm stainless steel or 3–4 mm aluminum (no brittle plastics)
+- **Material:** Stainless steel, minimum thickness 4 mm; no brittle plastics. Thickness ≥ 4 mm is required for reliable bottle-opener use.
 - **Cutting:** standard laser/water-jet
 - **Finish:** lightly deburr; optionally sharpen the tip at ~30–40°
 - **Optional:** add a keyring hole if you like
